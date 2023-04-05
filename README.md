@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Katia Paredes
 
 <!--
 **katiarp/katiarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/katiarp/github-readme-stats)
