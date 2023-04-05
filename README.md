@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learningd back-end programming languages, neural networks and machine learning 
-- 👀 I'm interested in statistics, data science, data analysis, sustainability, AI and philosophy 
-- 👯 I’m looking to collaborate on any data science or data analysis projects
+- 👀 I'm interested in statistics, data science, data analytics, sustainability, AI and philosophy 
+- 👯 I’m looking to collaborate on any data science or data analytics projects
 - 🤔 I’m looking for mentorship
 - 💬 Ask me about anything! 
 - ⚡ Fun fact: I was born on Feb 29th!
